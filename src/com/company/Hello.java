@@ -5,5 +5,6 @@ public class Hello {
         System.out.println("it is snowing");
         //added line 2
         //added line 3
+        //sun is needed
     }
 }
